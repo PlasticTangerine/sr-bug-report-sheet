@@ -26,7 +26,7 @@ In no particular order other than that of which I documented them.
 |04|**'Garters'** socks clipping with prosthetic legs|[Imgur Image](https://i.imgur.com/Bf5rPBm.png)|
 |05|**'MDI-68 Focus Rifle'** ammo counts make no sense|[Imgur Image](https://i.imgur.com/8flGLCE.png)|
 |06|**'MDI-39m Sixguns'** can get caught in an infinite reload loop when dual wielding if the player only has 1 ammo. &nbsp;You cannot fire the weapons once caught in the reload loop.|[Streamable Video](https://streamable.com/661ut1)|
-|07|The reticle **'TOGO-13 Sniper Rifle'** will misalign with the scope overlay as the character breathes|[Streamable Video](https://streamable.com/oda07o)|
+|07|The reticle for the **'TOGO-13 Sniper Rifle'** will misalign with the scope overlay as the character breathes|[Streamable Video](https://streamable.com/oda07o)|
 |08|When reloading visually modified weapons, magazines, etc. remain are unmodified|[Streamable Video](https://streamable.com/6sevko)|
 |09|Hole in the geometry on the **'Saints Tower'**|[Imgur Image](https://i.imgur.com/r5dg28P.png)|
 |10|Inconsistent LOD distances when flying. &nbsp;This is super noticable for all Criminal Ventures.|[Streamable Video](https://streamable.com/rniwsr)|
