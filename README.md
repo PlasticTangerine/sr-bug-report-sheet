@@ -30,7 +30,7 @@ In no particular order other than that of which I documented them.
 |08|When reloading visually modified weapons, magazines, etc. remain are unmodified|[Streamable Video](https://streamable.com/6sevko)|
 |09|Hole in the geometry on the **'Saints Tower'**|[Imgur Image](https://i.imgur.com/r5dg28P.png)|
 |10|Inconsistent LOD distances when flying. &nbsp;This is super noticable for all Criminal Ventures.|[Streamable Video](https://streamable.com/rniwsr)|
-|11|Entering a vehicle when with the **'Dual Wield'** perk will half the ammo regardless if the current ammo is less than a magazine for a single gun. &nbsp;When ammo is halved, you do not get it back.|[Streamable Video](https://streamable.com/rniwsr)|
+|11|Entering a vehicle when with the **'Dual Wield'** perk will half the ammo regardless if the current ammo is less than a magazine for a single gun. &nbsp;When ammo is halved, you do not get it back.|[Streamable Video](https://streamable.com/0n4xlk)|
 |12|Exiting a vehicle with the 'Dual Wield' perk and then instantly entering combat stance with a dual wieldable weapon will only wield a single gun. &nbsp;You must switch weapons in order to dual wield again.|[Streamable Video](https://streamable.com/3fto6n)|
 |13|**'Wristband, Buckled'** shows the wrong shop icon and equips the incorrect item. &nbsp;It equips **'Wristband, Buckled (Left)'**|[Imgur Image](https://i.imgur.com/ch1OmdK.png)|
 |14|Buying a normal version of an accessory will unlock both right and left versions. &nbsp;Buying a **'left'** specified version of a wrist accessory will only unlock the left version.|[Streamable Video](https://streamable.com/8uhsb1)|
