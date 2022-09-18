@@ -64,7 +64,7 @@ In no particular order other than that of which I documented them.
 |42|If you use the **'Tough Mother'** skill while you still have some shield left over from a previous use of the skill, your flow will be spent and you will not receive any additional shielding. &nbsp;You can also be charged for using the skill with full shields.|[Streamable Video](https://streamable.com/xecq4z)|
 |43|Various transparency priority issues|[Imgur Image](https://i.imgur.com/GmGl3s2.png)|
 |44|The **'Axe'** weapon has no standard material|[Imgur Image](https://i.imgur.com/olFLu1n.png)|
-|45|Weapons with **'visual mod'** options will not save materal/color/pattern customizations between game loads. &nbsp;If a weapon has no visual mods unlocked, the customizations will save.|[Streamable Video](https://streamable.com/ah3zdy)|
+|45|Weapons with **'visual mod'** options will not save materal/color/pattern customizations between game loads. &nbsp;If a weapon has no visual mods unlocked, the customizations will save.|[Streamable Video](https://streamable.com/zyruqs)|
 |46|The **'Untouchable'** achievement does not unlock despite completing over 10 crimes of opportunity|N/A|
 |47|Auto aim remains active even when disabled|N/A|
 |48|The game does not advance past 97% completion|N/A|
