@@ -1,7 +1,7 @@
 # Saints Row Bug Report Sheet
 
 ## Foreword
-This is a compilation of bugs I noticed while playing the game. &nbsp;I have been playing the game since release day with a single character I imported from the Boss Factory. &nbsp;These bugs were noticed on the Epic Games (PC) version of the game. &nbsp;All bugs were recorded on game version **1.1.6.4392638**, yet some may have been discovered on earlier versions.
+This is a compilation of bugs I noticed while playing the game. &nbsp;I have been playing the game since release day with a single character I imported from the Boss Factory. &nbsp;These bugs were noticed on the Epic Games (PC) version of the game running with DirectX 12. &nbsp;All bugs were recorded on game version **1.1.6.4392638**, yet some may have been discovered on earlier versions.
 
 Here are my system specs:
 |        |                      |
@@ -55,11 +55,20 @@ In no particular order other than that of which I documented them.
 |33|Playlist app does not play more than 1 song in a custom playlist|[Streamable Video](https://streamable.com/7249lh)|
 |34|The heavy attacks of melee weapons do not scale with upgrades. &nbsp;I have noticed this problem across several melee weapons.|[Streamable Video](https://streamable.com/ctkkjj)|
 |35|The **'Desert Daredevil'** challenge does not track properly, making it impossible to complete|[Streamable Video](https://streamable.com/s2iqal)|
-|36|If you open the phone while exiting a vehicle, you still are unable to apps that are disable in vehicles|[Streamable Video](https://streamable.com/rkbkqq)|
+|36|If you open the phone while exiting a vehicle, you still are unable to apps that are disabled in vehicles|[Streamable Video](https://streamable.com/rkbkqq)|
 |37|At some point 'Discoveries' stopped showing under the 'All' category of the map screen. &nbsp;Some point later after I completed several of them, they started to show again.|[Streamable Video](https://streamable.com/c4yw2y)|
 |38|When dual wielding the **'MDI-39m Sixguns'**, the left gun does not have a shooting animation|[Streamable Video](https://streamable.com/anzk35)|
 |39|Tire smoke ocassionally goes the wrong way (forward) when boosting/drifting|[Streamable Video](https://streamable.com/dv2otw)|
 |40|If you use the playlist app while listining to a radio station, 2 different songs will play at once|[Streamable Video](https://streamable.com/iee6op)|
+|41|If you use flow with a non-whole amount of flow, there will be visual glitches with the flow meter|[Streamable Video](https://streamable.com/mzv3th)|
+|42|If you use the **'Tough Mother'** skill while you still have some shield left over from a previous use of the skill, your flow will be spent and you will not receive any additional shielding. &nbsp;You can also be charged for using the skill with full shields.|[Streamable Video](https://streamable.com/xecq4z)|
+|43|Various transparency priority issues|[Imgur Image](https://i.imgur.com/GmGl3s2.png)|
+|44|The **'Axe'** weapon has no standard material|[Imgur Image](https://i.imgur.com/olFLu1n.png)|
+|45|Weapons with **'visual mod'** options will not save materal/color/pattern customizations between game loads. &nbsp;If a weapon has no visual mods unlocked, the customizations will save.|[Streamable Video](https://streamable.com/ah3zdy)|
+|46|The **'Untouchable'** achievement does not unlock despite completing over 10 crimes of opportunity|N/A|
+|47|Auto aim remains active even when disabled|N/A|
+|48|The game does not advance past 97% completion|N/A|
+|49|I'm not 100% sure, yet I believe every time a toxic waste truck spawns the geiger counter sound effect plays regardless of your location to the truck. &nbsp;This sound plays alot and it is very annoying.|N/A|
 
 # My Feedback
 Stuff that doesn't really seem like a bug, yet it still managed to draw my attention.
@@ -67,5 +76,7 @@ Stuff that doesn't really seem like a bug, yet it still managed to draw my atten
 |-|-|
 |01|The radio station order when you scroll through 1 by 1 does not match the radio wheel order|
 |02|**'Flaming Punch'** is worthless over **'Pineapple Express'** at high difficulty. &nbsp;Pineapple Express has a bunch of invulnerability frames, good damage, can damage multiple enemies, and typically does enough damage to regenerate the flow cost so it's nice and spammable. &nbsp;Flaming Punch leaves the player standing vulnerable during the wind-up, can only target one enemy, and doesn't do much damage, but it does have some style points I guess. &nbsp;This is not asking for a nerf to Pineapple Express. &nbsp;It is a single player game, I want to have fun. &nbsp;Pineapple Express is fun to abuse. &nbsp;Please make Flaming Punch fun.|
-|03|Putting DLC items in the collectable list before the DLC is even out is dumb. &nbsp;I must now sit and wait with this locked blemish in my collectible list. &nbsp;Also, what about people who do not plan to buy the DLC?|
+|03|Putting DLC items in the collectable list before the DLC is even out is wack. &nbsp;I must now sit and wait with this locked blemish in my collectible list. &nbsp;Also, what about people who do not plan to buy the DLC?|
 |04|Locking **'Everything is a Million Dollars'** until the story line was over was confusing and made me think the shop did not even work.|
+|05|The save game limit is way too low. &nbsp;There shouldn't even be a limit to the amount of saves you can have. &nbsp;If there is some problem with cloud saves or something at least give me 50 saves. (please ;.;)|
+|06|[Please fix this](https://i.imgur.com/YlTwjFo.png)|
