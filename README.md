@@ -11,7 +11,7 @@ Here are my system specs:
 | Memory | 32GB                 |
 | GPU    | GeForce RTX 2080 8GB |
 
-Additionally, I run a tripple monitor setup, with each monitor set to 1920x1080 @ 144hz. &nbsp;The game is displayed on monitor 1. &nbsp;I used a keyboard and mouse as my input device to play the game.
+Additionally, the game runs off an HDD. &nbsp;I run a tripple monitor setup, with each monitor set to 1920x1080@144hz. &nbsp;It is displayed on monitor 1. &nbsp;I use a keyboard and mouse as my input device to play the game.
 
 Here is a video that showcases all of my in game settings: &nbsp;[Streamable Video](https://streamable.com/2al36w)
 
@@ -50,3 +50,22 @@ In no particular order other than that of which I documented them.
 |28|Incorrect grab points on these walls|[Streamable Video](https://streamable.com/o3dnhw)|
 |29|Activating the **'D4TH Blossom'** skill during a reload causes issues with the animation|[Streamable Video](https://streamable.com/j3e0g9)|
 |30|Weapons will unequip from the weapon wheel yet remain usable in a bugged state. &nbsp;I do not know the exact cause. &nbsp;I have seen it happen with melee and special weapons.|[Streamable Video](https://streamable.com/ws8wxj)|
+|31|There are issues that occur when using no underwear, the game acts as if underwear is still equipped. &nbsp;It is very difficult to explain, yet I think the video provides a good example.|[Streamable Video](https://streamable.com/8k6ldl)|
+|32|Underwear options are not saved between game loads if a top/bottom are equipped over the underwear. &nbsp;Possibly related, jackets are not saved if a necklace is equipped. &nbsp;I am aware necklaces are intended to overwrite jackets, yet the game will allow you to overwrite the necklace with a jacket in the style menu.|[Streamable Video](https://streamable.com/2uoev1)|
+|33|Playlist app does not play more than 1 song in a custom playlist|[Streamable Video](https://streamable.com/7249lh)|
+|34|The heavy attacks of melee weapons do not scale with upgrades. &nbsp;I have noticed this problem across several melee weapons.|[Streamable Video](https://streamable.com/ctkkjj)|
+|35|The **'Desert Daredevil'** challenge does not track properly, making it impossible to complete|[Streamable Video](https://streamable.com/s2iqal)|
+|36|If you open the phone while exiting a vehicle, you still are unable to apps that are disable in vehicles|[Streamable Video](https://streamable.com/rkbkqq)|
+|37|At some point 'Discoveries' stopped showing under the 'All' category of the map screen. &nbsp;Some point later after I completed several of them, they started to show again.|[Streamable Video](https://streamable.com/c4yw2y)|
+|38|When dual wielding the **'MDI-39m Sixguns'**, the left gun does not have a shooting animation|[Streamable Video](https://streamable.com/anzk35)|
+|39|Tire smoke ocassionally goes the wrong way (forward) when boosting/drifting|[Streamable Video](https://streamable.com/dv2otw)|
+|40|If you use the playlist app while listining to a radio station, 2 different songs will play at once|[Streamable Video](https://streamable.com/iee6op)|
+
+# My Feedback
+Stuff that doesn't really seem like a bug, yet it still managed to draw my attention.
+|\#\#|Feedback|
+|-|-|
+|01|The radio station order when you scroll through 1 by 1 does not match the radio wheel order|
+|02|**'Flaming Punch'** is worthless over **'Pineapple Express'** at high difficulty. &nbsp;Pineapple Express has a bunch of invulnerability frames, good damage, can damage multiple enemies, and typically does enough damage to regenerate the flow cost so it's nice and spammable. &nbsp;Flaming Punch leaves the player standing vulnerable during the wind-up, can only target one enemy, and doesn't do much damage, but it does have some style points I guess. &nbsp;This is not asking for a nerf to Pineapple Express. &nbsp;It is a single player game, I want to have fun. &nbsp;Pineapple Express is fun to abuse. &nbsp;Please make Flaming Punch fun.|
+|03|Putting DLC items in the collectable list before the DLC is even out is dumb. &nbsp;I must now sit and wait with this locked blemish in my collectible list. &nbsp;Also, what about people who do not plan to buy the DLC?|
+|04|Locking **'Everything is a Million Dollars'** until the story line was over was confusing and made me think the shop did not even work.|
