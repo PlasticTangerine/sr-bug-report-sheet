@@ -81,5 +81,5 @@ Stuff that doesn't really seem like a bug, yet it still managed to draw my atten
 |03|Putting DLC items in the collectable list before the DLC is even out is wack. &nbsp;I must now sit and wait with this locked blemish in my collectible list. &nbsp;Also, what about people who do not plan to buy the DLC?|
 |04|Locking **'Everything is a Million Dollars'** until the story line was over was confusing and made me think the shop did not even work|
 |05|The save game limit is way too low. &nbsp;There shouldn't even be a limit to the amount of saves you can have. &nbsp;If there is some problem with cloud saves or something at least give me 50 saves. (please ;.;)|
-|06|Allow more anti-aliasing options over FXAA which smears vaseline on the screen and TSSAA which creates visual artifacts at high speed|
+|06|Allow more anti-aliasing options over FXAA which smears vaseline on the screen and TSSAA which creates visual artifacts in motion|
 |07|[Please fix this](https://i.imgur.com/YlTwjFo.png)|
