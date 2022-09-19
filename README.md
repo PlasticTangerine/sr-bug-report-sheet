@@ -49,7 +49,7 @@ In no particular order other than that of which I documented them.
 |27|Unstable framerate in deserts in areas with high vegetation. &nbsp;This is with 'Adaptive' undergrowth enabled. &nbsp;The video was uploaded at 30fps to stay within filesize limits, the effect is more noticable in game.|[Streamable Video](https://streamable.com/d50sov)|
 |28|Incorrect grab points on these walls|[Streamable Video](https://streamable.com/o3dnhw)|
 |29|Activating the **'D4TH Blossom'** skill during a reload causes issues with the animation|[Streamable Video](https://streamable.com/j3e0g9)|
-|30|Weapons will unequip from the weapon wheel yet remain usable in a bugged state. &nbsp;I do not know the exact cause. &nbsp;I have seen it happen with melee and special weapons.|[Streamable Video](https://streamable.com/ws8wxj)|
+|30|Weapons will unequip from the weapon wheel yet remain usable in a bugged state. &nbsp;I do not know the exact cause. &nbsp;I have seen it happen with melee and special weapons. &nbsp;**Edit**: Equpping or unequipping the dual wield perk will cause this issue to occur 100% of the time.|[Streamable Video](https://streamable.com/ws8wxj)|
 |31|There are issues that occur when using no underwear, the game acts as if underwear is still equipped. &nbsp;It is very difficult to explain, yet I think the video provides a good example.|[Streamable Video](https://streamable.com/8k6ldl)|
 |32|Underwear options are not saved between game loads if a top/bottom are equipped over the underwear. &nbsp;Possibly related, jackets are not saved if a necklace is equipped. &nbsp;I am aware necklaces are intended to overwrite jackets, yet the game will allow you to overwrite the necklace with a jacket in the style menu.|[Streamable Video](https://streamable.com/2uoev1)|
 |33|Playlist app does not play more than 1 song in a custom playlist|[Streamable Video](https://streamable.com/7249lh)|
@@ -71,6 +71,7 @@ In no particular order other than that of which I documented them.
 |49|I'm not 100% sure, yet I believe every time a toxic waste truck spawns the geiger counter sound effect plays regardless of your location to the truck. &nbsp;This sound plays alot and it is very annoying.|N/A|
 |50|You cannot gain more than 1 bar of police notoriety if you have some gang notoriety. &nbsp;I understand that this may be due to performance, yet understand that I want to go on a 10 notoriety rampage.|[Streamable Video](https://streamable.com/k0x9o2)|
 |51|Purchasing and equipping a wingsuit in a shop will leave the wingsuit visible on the player. &nbsp;Going into the style menu will fix this.|[Streamable Video](https://streamable.com/631fzi)|
+|52|The **'Saints Lawgiver'** visual mod causes various issues|[Streamable Video](https://streamable.com/qwdthq)|
 
 ## My Feedback
 Stuff that doesn't really seem like a bug, yet it still managed to draw my attention.
