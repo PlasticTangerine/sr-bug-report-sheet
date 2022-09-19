@@ -69,6 +69,8 @@ In no particular order other than that of which I documented them.
 |47|Auto aim remains active even when disabled|N/A|
 |48|The game does not advance past 97% completion|N/A|
 |49|I'm not 100% sure, yet I believe every time a toxic waste truck spawns the geiger counter sound effect plays regardless of your location to the truck. &nbsp;This sound plays alot and it is very annoying.|N/A|
+|50|You cannot gain more than 1 bar of police notoriety if you have some gang notoriety. &nbsp;I understand that this may be due to performance, yet understand that I want to go on a 10 notoriety rampage.|[Streamable Video](https://streamable.com/k0x9o2)|
+|51|Purchasing and equipping a wingsuit in a shop will leave the wingsuit visible on the player. &nbsp;Going into the style menu will fix this.|[Streamable Video](https://streamable.com/631fzi)|
 
 # My Feedback
 Stuff that doesn't really seem like a bug, yet it still managed to draw my attention.
@@ -77,6 +79,7 @@ Stuff that doesn't really seem like a bug, yet it still managed to draw my atten
 |01|The radio station order when you scroll through 1 by 1 does not match the radio wheel order|
 |02|**'Flaming Punch'** is worthless over **'Pineapple Express'** at high difficulty. &nbsp;Pineapple Express has a bunch of invulnerability frames, good damage, can damage multiple enemies, and typically does enough damage to regenerate the flow cost so it's nice and spammable. &nbsp;Flaming Punch leaves the player standing vulnerable during the wind-up, can only target one enemy, and doesn't do much damage, but it does have some style points I guess. &nbsp;This is not asking for a nerf to Pineapple Express. &nbsp;It is a single player game, I want to have fun. &nbsp;Pineapple Express is fun to abuse. &nbsp;Please make Flaming Punch fun.|
 |03|Putting DLC items in the collectable list before the DLC is even out is wack. &nbsp;I must now sit and wait with this locked blemish in my collectible list. &nbsp;Also, what about people who do not plan to buy the DLC?|
-|04|Locking **'Everything is a Million Dollars'** until the story line was over was confusing and made me think the shop did not even work.|
+|04|Locking **'Everything is a Million Dollars'** until the story line was over was confusing and made me think the shop did not even work|
 |05|The save game limit is way too low. &nbsp;There shouldn't even be a limit to the amount of saves you can have. &nbsp;If there is some problem with cloud saves or something at least give me 50 saves. (please ;.;)|
-|06|[Please fix this](https://i.imgur.com/YlTwjFo.png)|
+|06|Allow more anti-aliasing options over FXAA which smears vaseline on the screen and TSSAA which creates visual artifacts at high speed|
+|07|[Please fix this](https://i.imgur.com/YlTwjFo.png)|
