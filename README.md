@@ -86,5 +86,5 @@ Stuff that doesn't really seem like a bug, yet it still managed to draw my atten
 |07|I'd like to turn off the lense effects (water drops, dirt) in the corners of the screen|
 |08|If the player is using a visually modded **'KA-1 Kobra Pistol'** or **'D4th Blossom SMG'** it would be cool to see them used in takedowns, the D4th Blossom ability, etc.|
 |09|It would be nice to have the minimap zoom out when using the wingsuit like it does when driving|
-|10|The **"Saints Tower'** garage could use some lights, its quite dark and hard to see
-|10|[Please fix this](https://i.imgur.com/YlTwjFo.png)|
+|10|The **"Saints Tower'** garage could use some lights, it's quite dark and hard to see
+|11|[Please fix this](https://i.imgur.com/YlTwjFo.png)|
