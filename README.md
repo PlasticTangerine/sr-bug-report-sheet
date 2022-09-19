@@ -71,7 +71,7 @@ In no particular order other than that of which I documented them.
 |49|I'm not 100% sure, yet I believe every time a toxic waste truck spawns the geiger counter sound effect plays regardless of your location to the truck. &nbsp;This sound plays alot and it is very annoying.|N/A|
 |50|You cannot gain more than 1 bar of police notoriety if you have some gang notoriety. &nbsp;I understand that this may be due to performance, yet understand that I want to go on a 10 notoriety rampage.|[Streamable Video](https://streamable.com/k0x9o2)|
 |51|Purchasing and equipping a wingsuit in a shop will leave the wingsuit visible on the player. &nbsp;Going into the style menu will fix this.|[Streamable Video](https://streamable.com/631fzi)|
-|52|The **'Saints Lawgiver'** visual mod causes various issues|[Streamable Video](https://streamable.com/qwdthq)|
+|52|The **'Saints Lawgiver'** visual mod causes various issues|[Streamable Video](https://streamable.com/7leo1e)|
 
 ## My Feedback
 Stuff that doesn't really seem like a bug, yet it still managed to draw my attention.
