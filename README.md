@@ -72,6 +72,7 @@ In no particular order other than that of which I documented them.
 |50|You cannot gain more than 1 bar of police notoriety if you have some gang notoriety. &nbsp;I understand that this may be due to performance, yet understand that I want to go on a 10 notoriety rampage.|[Streamable Video](https://streamable.com/k0x9o2)|
 |51|Purchasing and equipping a wingsuit in a shop will leave the wingsuit visible on the player. &nbsp;Going into the style menu will fix this.|[Streamable Video](https://streamable.com/631fzi)|
 |52|The **'Saints Lawgiver'** visual mod causes various issues|[Streamable Video](https://streamable.com/7leo1e)|
+|53|There is no indicator on face paints to show that they are owned|https://i.imgur.com/2PqcFZ0.png|
 
 ## My Feedback
 Stuff that doesn't really seem like a bug, yet it still managed to draw my attention.
